@@ -21,7 +21,7 @@ This project analyzes pizza sales data to uncover insights about customer orderi
 -	Measure average order value and pizzas per order.
 -	Build an interactive Power BI dashboard for actionable insights.
 ### Data used
-[Dataset](https://github.com/Farzana-Begum/Pizza-Sales-Data-Analysis/blob/main/pizza_sales%20(1).csv)
+- [Dataset](https://github.com/Farzana-Begum/Pizza-Sales-Data-Analysis/blob/main/pizza_sales%20(1).csv)
 ### Tools & Technologies
 - **SQL** (Common Table Expressions, Joins, Filtering)  
 - **Power BI** (Visualization and dashboard creation)  
