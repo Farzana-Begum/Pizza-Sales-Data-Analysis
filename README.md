@@ -23,10 +23,10 @@ This project analyzes pizza sales data to uncover insights about customer orderi
 ### Data used
 [Dataset](https://github.com/Farzana-Begum/Pizza-Sales-Data-Analysis/blob/main/pizza_sales%20(1).csv)
 ### Tools & Technologies
--SQL(Common Table Expressions, Joins, Filtering)
--Power BI(Visualization and dashboard creation)
--Microsoft Excel(Data validation and import)
--GitHub
+- **SQL** (Common Table Expressions, Joins, Filtering)  
+- **Power BI** (Visualization and dashboard creation)  
+- **Microsoft Excel** (Data validation and import)  
+- **GitHub**
 ## Methodology
 ### Data Preparation 
 -	Imported and cleaned raw pizza sales data.
