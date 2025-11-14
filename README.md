@@ -38,13 +38,13 @@ This project analyzes pizza sales data to uncover insights about customer orderi
 -	Created dynamic KPIs and visuals using Power BI.
 -	Designed an interactive dashboard for management-level insights.
 ###  Questions and Key (KPIs)
--Total Revenue – What is the total sales revenue generated from all pizza orders?
--Average Order Value – What is the average amount spent per order?
--Total Pizzas Sold – How many pizzas were sold overall?
--Total Orders – How many unique orders were placed?
--What is the total sales revenue generated from all pizza orders?
--What is the average amount spent per order?
--How many pizzas were sold overall?
+- Total Revenue – What is the total sales revenue generated from all pizza orders?
+- Average Order Value – What is the average amount spent per order?
+- Total Pizzas Sold – How many pizzas were sold overall?
+- Total Orders – How many unique orders were placed?
+- What is the total sales revenue generated from all pizza orders?
+- What is the average amount spent per order?
+- How many pizzas were sold overall?
 ## Dashboard
 -	Total Revenue, Orders, and Pizzas Sold visualized with dynamic KPIs.
 -	% of Sales by Pizza Category to understand category contribution.
